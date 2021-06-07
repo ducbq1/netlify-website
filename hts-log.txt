@@ -1,0 +1,81 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 07 Jun 2021 20:31:01 at https://lmpixels.com/wp/leven-wp/full-width-dark/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lmpixels.com/wp/leven-wp/full-width-dark/ -O1 "C:\My Web Sites\Web Netlify" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:31:06	Warning: 	Found for https://lmpixels.com/robots.txt
+20:31:06	Warning: 	File has moved from https://lmpixels.com/robots.txt to https://lmpixels.com/404.shtml
+20:33:26	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=164
+20:33:26	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=164 to https://lmpixels.com/wp/leven-wp/full-width-dark/home-2-about-me/
+20:33:26	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=310
+20:33:26	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=310 to https://lmpixels.com/wp/leven-wp/full-width-dark/about-me-3/
+20:33:27	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=319
+20:33:27	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=319 to https://lmpixels.com/wp/leven-wp/full-width-dark/about-me-4/
+20:33:27	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=323
+20:33:27	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=323 to https://lmpixels.com/wp/leven-wp/full-width-dark/about-me-5/
+20:33:27	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=326
+20:33:27	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=326 to https://lmpixels.com/wp/leven-wp/full-width-dark/about-me-6/
+20:33:27	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=8
+20:33:27	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=8 to https://lmpixels.com/wp/leven-wp/full-width-dark/home/
+20:33:28	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=15
+20:33:28	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=15 to https://lmpixels.com/wp/leven-wp/full-width-dark/home-2/
+20:33:28	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=171
+20:33:28	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=171 to https://lmpixels.com/wp/leven-wp/full-width-dark/resume/
+20:33:29	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=25
+20:33:29	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=25 to https://lmpixels.com/wp/leven-wp/full-width-dark/portfolio/
+20:33:45	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=30
+20:33:45	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=30 to https://lmpixels.com/wp/leven-wp/full-width-dark/portfolio-2-columns/
+20:33:45	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=34
+20:33:45	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=34 to https://lmpixels.com/wp/leven-wp/full-width-dark/portfolio-4-columns/
+20:33:45	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=37
+20:33:45	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=37 to https://lmpixels.com/wp/leven-wp/full-width-dark/portfolio-5-columns/
+20:33:46	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=83
+20:33:46	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=83 to https://lmpixels.com/wp/leven-wp/full-width-dark/blog-2-columns/
+20:33:48	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=86
+20:33:48	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=86 to https://lmpixels.com/wp/leven-wp/full-width-dark/blog-3-columns/
+20:34:06	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=187
+20:34:06	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=187 to https://lmpixels.com/wp/leven-wp/full-width-dark/contact/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=334
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=334 to https://lmpixels.com/wp/leven-wp/full-width-dark/extra/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=139
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=139 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/how-to-make-a-wordpress-plugin-extensible/
+20:34:07	Error: 	"Method Not Allowed" (405) at link https://lmpixels.com/wp/leven-wp/full-width-dark/xmlrpc.php (from https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/how-to-make-a-wordpress-plugin-extensible/)
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=136
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=136 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/6-easy-steps-to-better-icon-design/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=133
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=133 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/creative-and-innovative-navigation-designs/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=123
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=123 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/why-i-switched-to-sketch-for-ui-design/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=120
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=120 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/an-overview-of-e-commerce-platforms/
+20:34:07	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=1
+20:34:07	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=1 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/11/28/hello-world/
+20:34:14	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=73
+20:34:14	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=73 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/full-project-2/
+20:34:16	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=43
+20:34:16	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=43 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/full-project-1/
+20:34:21	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=114
+20:34:21	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=114 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/designing-the-perfect-feature-comparison-table/
+20:34:21	Error: 	"Not Found" (404) at link https://lmpixels.com/wp/leven-wp/full-width-dark/wp-json/wp/v2/users/1 (from https://lmpixels.com/wp/leven-wp/full-width-dark/author/lmpixels/)
+20:34:21	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=96
+20:34:21	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=96 to https://lmpixels.com/wp/leven-wp/full-width-dark/2019/12/04/best-practices-for-animated-progress-indicators/
+20:34:21	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=79
+20:34:21	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=79 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/youtube-video-2/
+20:34:23	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=71
+20:34:23	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=71 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/direct-url/
+20:34:25	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=63
+20:34:25	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=63 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/youtube-video-1/
+20:34:26	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=81
+20:34:26	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=81 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/image-2/
+20:34:28	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=69
+20:34:28	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=69 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/image-1/
+20:34:28	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=65
+20:34:28	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=65 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/vimeo-video/
+20:34:29	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/full-width-dark/?p=67
+20:34:29	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/full-width-dark/?p=67 to https://lmpixels.com/wp/leven-wp/full-width-dark/project/soundcloud-audio-1/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 28 seconds : 349 links scanned, 313 files written (17330098 bytes overall) [8417664 bytes received at 40469 bytes/sec], 13226330 bytes transferred using HTTP compression in 270 files, ratio 29%, 15.4 requests per connection
+(2 errors, 68 warnings, 0 messages)
