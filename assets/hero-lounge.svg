@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-label="Luxury lounge illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#140716"/><stop offset=".48" stop-color="#301032"/><stop offset="1" stop-color="#91561e"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7ca"/><stop offset=".45" stop-color="#f3c767"/><stop offset="1" stop-color="#a86627"/></linearGradient>
+    <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff78ad"/><stop offset="1" stop-color="#7b3cff"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="760" height="520" rx="42" fill="url(#bg)"/>
+  <circle cx="585" cy="100" r="155" fill="#ff4f87" opacity=".2"/>
+  <circle cx="170" cy="405" r="210" fill="#f5c970" opacity=".13"/>
+  <path d="M70 355 C210 310 260 330 390 292 C520 254 610 278 708 228 L708 520 L70 520 Z" fill="#090409" opacity=".55"/>
+  <g opacity=".85">
+    <path d="M105 100h550" stroke="url(#gold)" stroke-width="2" opacity=".45"/>
+    <path d="M120 135h520" stroke="#fff7ee" stroke-width="1" opacity=".18"/>
+    <path d="M140 170h480" stroke="#fff7ee" stroke-width="1" opacity=".14"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="180" cy="126" r="8" fill="#f5c970"/>
+    <circle cx="266" cy="102" r="5" fill="#fff7ca"/>
+    <circle cx="485" cy="112" r="7" fill="#f5c970"/>
+    <circle cx="590" cy="148" r="5" fill="#ff78ad"/>
+  </g>
+  <g transform="translate(90 230)">
+    <rect x="0" y="85" width="260" height="92" rx="36" fill="#1c0b1e" stroke="url(#gold)" opacity=".92"/>
+    <rect x="34" y="45" width="78" height="82" rx="28" fill="#261029" stroke="#f5c970" opacity=".7"/>
+    <rect x="132" y="38" width="95" height="90" rx="30" fill="#311436" stroke="#ff78ad" opacity=".55"/>
+    <path d="M20 176h220" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(430 220)">
+    <path d="M78 170 L118 170 L110 80 L86 80 Z" fill="#fff7ee" opacity=".9"/>
+    <path d="M98 80 C138 50 139 12 98 12 C57 12 58 50 98 80Z" fill="none" stroke="url(#gold)" stroke-width="7"/>
+    <path d="M72 48 C96 78 126 54 126 54" fill="none" stroke="#ff78ad" stroke-width="4" opacity=".75"/>
+    <path d="M55 172h86" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-weight="900">
+    <text x="70" y="78" font-size="24" fill="#f5c970" letter-spacing="6">VICTORIA</text>
+    <text x="70" y="112" font-size="18" fill="#fff7ee" opacity=".8" letter-spacing="3">BAR &amp; LOUNGE</text>
+  </g>
+</svg>

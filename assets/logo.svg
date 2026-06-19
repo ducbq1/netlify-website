@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Victoria Bar and Lounge logo">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="18%" r="80%">
+      <stop offset="0%" stop-color="#3a2208"/>
+      <stop offset="50%" stop-color="#130a04"/>
+      <stop offset="100%" stop-color="#040202"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3b0"/>
+      <stop offset="18%" stop-color="#f7d86b"/>
+      <stop offset="42%" stop-color="#d49b2b"/>
+      <stop offset="62%" stop-color="#fff0a6"/>
+      <stop offset="82%" stop-color="#b97818"/>
+      <stop offset="100%" stop-color="#f1cb63"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="900" height="900" fill="url(#bgGlow)"/>
+
+  <!-- sparkles -->
+  <g fill="#f7d86b" opacity="0.85">
+    <circle cx="145" cy="140" r="3"/><circle cx="171" cy="118" r="2"/><circle cx="212" cy="152" r="2.2"/>
+    <circle cx="718" cy="128" r="3"/><circle cx="770" cy="158" r="2.4"/><circle cx="733" cy="200" r="2"/>
+    <circle cx="185" cy="760" r="2.8"/><circle cx="747" cy="756" r="2.8"/>
+    <circle cx="450" cy="85" r="2.8"/>
+  </g>
+  <g stroke="#f7d86b" stroke-linecap="round" opacity="0.6">
+    <path d="M145 110 v18 M136 119 h18"/>
+    <path d="M742 105 v16 M734 113 h16"/>
+    <path d="M762 732 v16 M754 740 h16"/>
+    <path d="M133 731 v16 M125 739 h16"/>
+  </g>
+
+  <g transform="translate(194,110) scale(1.0)" filter="url(#shadow)">
+    <rect x="0" y="0" width="512" height="512" fill="none"/>
+    <g transform="translate(0,0)">
+      <path d="M256 96
+        C217 96 181 108 152 126
+        L152 215
+        C152 299 197 367 256 408
+        C315 367 360 299 360 215
+        L360 126
+        C331 108 295 96 256 96Z" fill="#2f1205" stroke="url(#gold)" stroke-width="10"/>
+      <path d="M256 118
+        C223 118 194 128 170 143
+        L170 214
+        C170 286 208 344 256 379
+        C304 344 342 286 342 214
+        L342 143
+        C318 128 289 118 256 118Z" fill="url(#red)" stroke="url(#gold)" stroke-width="8"/>
+      <defs>
+        <radialGradient id="red" cx="40%" cy="22%" r="85%">
+          <stop offset="0%" stop-color="#ffb5b0"/>
+          <stop offset="15%" stop-color="#d94646"/>
+          <stop offset="58%" stop-color="#7b0917"/>
+          <stop offset="100%" stop-color="#300107"/>
+        </radialGradient>
+      </defs>
+      <g transform="translate(256 204)">
+        <ellipse rx="132" ry="118" fill="#2a1305" opacity="0.55"/>
+        <g fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M-118 -18
+            c-12 -23 -13 -54 5 -76
+            c11 -13 30 -20 47 -16
+            c7 -23 28 -39 51 -38
+            c14 1 27 7 37 17
+            c10 -10 23 -16 37 -17
+            c23 -1 44 15 51 38
+            c17 -4 36 3 47 16
+            c18 22 17 53 5 76"/>
+          <path d="M-118 18
+            c-12 23 -13 54 5 76
+            c11 13 30 20 47 16
+            c7 23 28 39 51 38
+            c14 -1 27 -7 37 -17
+            c10 10 23 16 37 17
+            c23 1 44 -15 51 -38
+            c17 4 36 -3 47 -16
+            c18 -22 17 -53 5 -76"/>
+        </g>
+        <g fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" opacity="0.96">
+          <path d="M-122 -28 c-18 -2 -30 -15 -31 -31 c-1 -14 8 -28 22 -32 c17 -5 31 4 35 18 c5 18 -7 34 -22 39"/>
+          <path d="M122 -28 c18 -2 30 -15 31 -31 c1 -14 -8 -28 -22 -32 c-17 -5 -31 4 -35 18 c-5 18 7 34 22 39"/>
+          <path d="M-122 28 c-18 2 -30 15 -31 31 c-1 14 8 28 22 32 c17 5 31 -4 35 -18 c5 -18 -7 -34 -22 -39"/>
+          <path d="M122 28 c18 2 30 15 31 31 c1 14 -8 28 -22 32 c-17 5 -31 -4 -35 -18 c-5 -18 7 -34 22 -39"/>
+        </g>
+      </g>
+      <path d="M208 165
+        L239 165
+        L256 239
+        L273 165
+        L304 165
+        L268 288
+        L244 288Z"
+        fill="#5d060d" stroke="url(#gold)" stroke-width="12" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <text x="450" y="695" text-anchor="middle" fill="url(#gold)"
+      font-size="84" font-family="Georgia, 'Times New Roman', serif" font-weight="700" letter-spacing="5">VICTORIA</text>
+    <text x="450" y="755" text-anchor="middle" fill="#e5c97a"
+      font-size="30" font-family="Georgia, 'Times New Roman', serif" letter-spacing="7">BAR &amp; LOUNGE</text>
+  </g>
+</svg>

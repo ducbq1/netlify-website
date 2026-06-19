@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-label="Champagne lights">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b0717"/><stop offset=".55" stop-color="#3b1639"/><stop offset="1" stop-color="#b87825"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5bd"/><stop offset=".45" stop-color="#f5c970"/><stop offset="1" stop-color="#ac6726"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="10"/></filter></defs>
+  <rect width="720" height="900" fill="url(#bg)"/>
+  <g opacity=".35"><circle cx="142" cy="128" r="85" fill="#ff4f87" filter="url(#blur)"/><circle cx="578" cy="276" r="130" fill="#f5c970" filter="url(#blur)"/><circle cx="240" cy="740" r="160" fill="#7d49ff" filter="url(#blur)"/></g>
+  <g fill="url(#gold)" opacity=".95">
+    <path d="M258 246h58l-18 450h-22z"/><path d="M405 206h58l-19 490h-22z"/><path d="M218 710h350v26H218z"/>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="8" opacity=".9"><ellipse cx="287" cy="232" rx="54" ry="92"/><ellipse cx="434" cy="190" rx="54" ry="92"/></g>
+  <path d="M238 246c54 58 99 14 99 14M386 202c54 58 99 14 99 14" fill="none" stroke="#ff78ad" stroke-width="5" opacity=".65"/>
+  <g fill="#fff8cc" opacity=".8"><circle cx="97" cy="175" r="5"/><circle cx="610" cy="107" r="4"/><circle cx="563" cy="652" r="6"/><circle cx="147" cy="575" r="3"/><circle cx="365" cy="83" r="4"/></g>
+</svg>
